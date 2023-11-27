@@ -7,8 +7,6 @@ set -g window-status-format '#I:#(pwd="#{pane_current_path}"; echo ${pwd####*/})
 set -g window-status-current-format '#I:#(pwd="#{pane_current_path}"; echo ${pwd####*/})#F'
 set -g status-interval 1
 
-set-option -sg escape-time 10
-
 # Enable focus events 
 set -g focus-events on
 
@@ -26,7 +24,6 @@ set -g @plugin 'catppuccin/tmux'
 
 
 ## Config
-
 set -g @catppuccin_flavour 'mocha' 
 set -g @catppuccin_window_left_separator "█"
 set -g @catppuccin_window_right_separator "█ "
