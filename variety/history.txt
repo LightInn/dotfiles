@@ -1,4 +1,8 @@
 0
+/home/brlef/.config/variety/Favorites/wallhaven-v9djdl.jpg
+/home/brlef/.config/variety/Favorites/wallhaven-8or3yk.jpg
+/home/brlef/.config/variety/Favorites/wallhaven-z8dg9y.png
+/home/brlef/.config/variety/Favorites/wallhaven-8oleko.jpg
 /home/brlef/.config/variety/Favorites/wallhaven-o3orwm.jpg
 /home/brlef/.config/variety/Favorites/wallhaven-g79y2e.jpg
 /home/brlef/.config/variety/Favorites/wallhaven-weq8y7.png
@@ -95,7 +99,3 @@
 /home/brlef/.config/variety/Favorites/wallhaven-o3qol5.jpg
 /home/brlef/.config/variety/Favorites/wallhaven-g79y2e.jpg
 /home/brlef/.config/variety/Favorites/wallhaven-72w8ye.jpg
-/home/brlef/.config/variety/Favorites/wallhaven-6opr1w.jpg
-/home/brlef/.config/variety/Favorites/wallhaven-72w8ye.jpg
-/home/brlef/.config/variety/Favorites/wallhaven-v9djdl.jpg
-/home/brlef/.config/variety/Favorites/wallhaven-x8m5jz.jpg
