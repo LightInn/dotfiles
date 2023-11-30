@@ -14,3 +14,5 @@ softwares needed:
 - neovim
 - fisher
 - nerd-fonts
+- bat
+
