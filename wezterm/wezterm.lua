@@ -20,5 +20,7 @@ config.enable_tab_bar = false
 config.window_background_opacity = 0.95
 
 config.warn_about_missing_glyphs = true
+config.window_close_confirmation = 'NeverPrompt'
+
 -- and finally, return the configuration to wezterm
 return config
