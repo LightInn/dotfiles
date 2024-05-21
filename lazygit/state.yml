@@ -1,6 +1,14 @@
 lastupdatecheck: 0
 recentrepos:
-- /home/lightin/.config
+- /home/brlef/.config
+- /home/brlef/repos/mod-plateforme
+- /home/brlef/repos/meg-docker-compose
+- /home/brlef/repos/achat
+- /home/brlef/repos/stickman
+- /home/brlef/repos/kafka-docker-compose
+- /home/brlef/repos/rdo-ecritures-comptables-banque
+- /home/brlef/repos/banque-back
+- /home/brlef/repos/portail-back
 startuppopupversion: 5
 customcommandshistory: []
 hidecommandlog: false
