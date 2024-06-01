@@ -1,0 +1,33 @@
+-- Pull in the wezterm API
+local wezterm = require 'wezterm'
+
+-- This will hold the configuration.
+local config = wezterm.config_builder()
+
+--- Set Pwsh as the default on Windows
+config.default_prog = { 'pwsh.exe', '-NoLogo' }
+
+
+--- Default config settings
+config.color_scheme = "Ayu Dark (Gogh)"
+config.font = wezterm.font 'JetBrains Mono'
+config.font_size = 10
+config.launch_menu = launch_menu
+config.default_cursor_style = 'BlinkingBar'
+config.disable_default_key_bindings = true
+config.keys = keys
+config.mouse_bindings = mouse_bindings
+
+
+config.enable_tab_bar = false
+
+config.window_background_opacity = 0.95
+
+config.warn_about_missing_glyphs = true
+config.window_close_confirmation = 'NeverPrompt'
+
+config.show_update_window = false
+
+
+-- and finally, return the configuration to wezterm
+return config
