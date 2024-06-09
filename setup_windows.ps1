@@ -1,3 +1,10 @@
+######## put this file to your $Home Folder #######
+## ############################################# ## 
+#| ~ For LazyVim, install https://ziglang.org ~  |#
+#| ~ use wezterm and install the windows version |#
+#|   of wezterm.lua for better terminal          |#
+###################################################
+
 Install-Module -Name z -RequiredVersion 1.1.13
 scoop install lsd
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
