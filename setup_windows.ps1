@@ -16,3 +16,6 @@ Remove-Item $env:LOCALAPPDATA\nvim\.git -Recurse -Force
 New-Item -path $profile -type file -force
 "Set-Alias -Name v -Value nvim" >> $Home\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
 "Set-Alias -Name la -Value ls" >> $Home\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
+scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json
+"oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/jandedobbeleer.omp.json' | Invoke-Expression" >> $Home\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
+
